@@ -1,2 +1,2 @@
 # desafio_lovely
-Desafio para a vada de QA automation engineer
+Desafio para a vaga de QA automation engineer
