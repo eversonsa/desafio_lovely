@@ -1,14 +1,19 @@
 # desafio_lovely
-Desafio para a vaga de QA automation engineer
+Challenge for the vacancy of QA automation engineer
 
 # Requirements
 Node.js
 
-para utilizar esse aplicativo ao efetuar download precisa instalar as dependencias
-e para adicionar um repositorio basta rodar o comando
+# Installation Steps (if applicable)
+1. Clone repo
+2. Run npm install
+3. Install the module globally with npm install -g from within the project directory
+
+to use this application when downloading you need to install the dependencies
+and to add a repository just run the command
 
 # npm start add colocar_repositorio
 	 
-para listar os repositorios adicionados bastar rodar o seguinte comando
+to list the added repositories just run the following command
 
 # npm start list
